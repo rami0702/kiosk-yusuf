@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kiosk-yusuf/static/css/main.4edd40ab.css",
-    "main.js": "/kiosk-yusuf/static/js/main.075a9498.js",
+    "main.js": "/kiosk-yusuf/static/js/main.4fb25cdb.js",
     "index.html": "/kiosk-yusuf/index.html",
     "main.4edd40ab.css.map": "/kiosk-yusuf/static/css/main.4edd40ab.css.map",
-    "main.075a9498.js.map": "/kiosk-yusuf/static/js/main.075a9498.js.map"
+    "main.4fb25cdb.js.map": "/kiosk-yusuf/static/js/main.4fb25cdb.js.map"
   },
   "entrypoints": [
     "static/css/main.4edd40ab.css",
-    "static/js/main.075a9498.js"
+    "static/js/main.4fb25cdb.js"
   ]
 }
