@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Marlboro Gold",
+    "price": 8.5,
+    "image": "/images/marlboro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Red Bull 250ml",
+    "price": 1.5,
+    "image": "/images/redbull.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fanta Orange 500ml",
+    "price": 1.2,
+    "image": "/images/fanta.jpg"
+  }
+]

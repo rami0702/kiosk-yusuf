@@ -1,0 +1,13 @@
+
+{
+  "name": "kiosk-yusuf",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "lucide-react": "^0.232.0",
+    "tailwindcss": "^3.0.0"
+  }
+}
